@@ -1,4 +1,4 @@
-# 🥯 NYC Bagels
+# NYC Bagels
 
 Website for a New York City bagel shop featuring the menu, business hour and location. Built with HTML and CSS.
 
